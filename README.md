@@ -2,7 +2,7 @@
 - 👀 I’m interested in FiveM development
 - 🌱 I’m currently learning Lua
 - 📫 Reach me @DonHulieo#0321 on discord
-- 📺 Watch me on Twitch - [DonHulieo](https://www.twitch.tv/donhulieo)
+- 📺 Watch me on Twitch - [Twitch.tv/DonHulieo](https://www.twitch.tv/donhulieo)
 
 <a href="https://github.com/donhulieo">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=donhulieo&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
