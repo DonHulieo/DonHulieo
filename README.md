@@ -4,7 +4,7 @@
 - 📫 Reach me @DonHulieo#0321 on discord
 - 📺 Watch me on Twitch - [Twitch.tv/DonHulieo](https://www.twitch.tv/donhulieo)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donhulieo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donhulieo&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 DonHulieo/DonHulieo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
