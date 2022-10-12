@@ -4,9 +4,7 @@
 - 📫 Reach me @DonHulieo#0321 on discord
 - 📺 Watch me on Twitch - [Twitch.tv/DonHulieo](https://www.twitch.tv/donhulieo)
 
-<a href="https://github.com/donhulieo">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=donhulieo&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DonHulieo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 DonHulieo/DonHulieo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
