@@ -1,8 +1,9 @@
+**About Me**
 - 👋 Hi, I’m DonHulieo
 - 👀 I’m interested in FiveM development
-- 🌱 I’m currently learning Lua
 - 📫 Reach me @DonHulieo#0321 on discord
 - 📺 Watch me on Twitch - [Twitch.tv/DonHulieo](https://www.twitch.tv/donhulieo)
+
 
 
 
