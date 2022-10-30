@@ -19,6 +19,9 @@
 </a>
 <a href="https://github.com/DonHulieo/don-jewelery">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=donhulieo&repo=don-jewelery&theme=great-gatsby" />
+</a> 
+<a href="https://github.com/DonHulieo/qb-weapons">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=donhulieo&repo=qb-weapons&theme=great-gatsby" />
 </a>
 
 <br />
