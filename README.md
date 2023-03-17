@@ -2,6 +2,7 @@
 - 👋 Hi, I’m DonHulieo
 - 👀 Server Developer for NewWorld Roleplay
 - 📝 Commision Developer for Omega Roleplay
+- 🦥 Offical Partner of [Project Sloth](https://github.com/Project-Sloth)
 - 📫 Reach me @DonHulieo#0321 on discord
 - 📺 Watch me on Twitch - [Twitch.tv/DonHulieo](https://www.twitch.tv/donhulieo)
 
