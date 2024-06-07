@@ -26,7 +26,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=donhulieo&repo=qb-weapons&theme=great-gatsby" />
 </a>
 <a href="https://github.com/DonHulieo/duff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=donhulieo&repo=duffs&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=donhulieo&repo=duff&theme=great-gatsby" />
 </a>
 
 <br />
