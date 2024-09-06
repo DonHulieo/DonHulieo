@@ -1,8 +1,6 @@
 ## About Me
 - 👋 Hi, I’m DonHulieo
-- 👀 Server Developer for NewWorld Roleplay
-- 📝 Commision Developer for Omega Roleplay
-- 🦥 Offical Partner of [Project Sloth](https://github.com/Project-Sloth)
+- ✅ Offical Partner of [Project Sloth](https://github.com/Project-Sloth) & [QBox Project](https://www.qbox.re)
 - 📫 Business Enquires donhulieo@outlook.com
 - 📺 Watch me on Twitch - [Twitch.tv/DonHulieo](https://www.twitch.tv/donhulieo)
 
