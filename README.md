@@ -31,11 +31,11 @@
 <br />
 
 <a href="https://discord.gg/tVA58nbBuk">
-  <img align="right" alt="Don's Saloon | Discord" width="21px" src="https://raw.githubusercontent.com/DonHulieo/DonHulieo/master/assets/discord-round.svg" />
+  <img align="right" alt="Don's Saloon | Discord" width="21px" src="https://raw.githubusercontent.com/DonHulieo/DonHulieo/master/assets/discord-round.svg?sanitize=true" />
 </a>
 <a href="https://twitter.com/DHulieo">
-  <img align="right" alt="DonHulieo | Twitter" width="21px" src="https://raw.githubusercontent.com/DonHulieo/DonHulieo/master/assets/twitter.svg" />
+  <img align="right" alt="DonHulieo | Twitter" width="21px" src="https://raw.githubusercontent.com/DonHulieo/DonHulieo/master/assets/twitter.svg?sanitize=true" />
 </a>
 <a href="https://www.twitch.tv/donhulieo">
-  <img align="right" alt="Don's Saloon | Twitch" width="21px" src="https://raw.githubusercontent.com/DonHulieo/DonHulieo/master/assets/twitch-tile.svg" />
+  <img align="right" alt="DonHulieo | Twitch" width="21px" src="https://raw.githubusercontent.com/DonHulieo/DonHulieo/master/assets/twitch-tile.svg?sanitize=true" />
 </a>
