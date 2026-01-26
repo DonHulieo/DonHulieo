@@ -1,41 +1,46 @@
+# G'day, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> ![Hello!](https://github.com/grouse-labs/.github/blob/main/profile/assets/donhulieo_hello.png?raw=true)
+
+[![Twitch Badge](https://img.shields.io/badge/%40donhulieo-teal?style=flat&logo=twitch&logoColor=ffb74d&labelColor=16171b&color=ffb74d&link=https%3A%2F%2Fwww.twitch.tv%2Fdonhulieo)](https://www.twitch.tv/donhulieo)
+[![Youtube Badge](https://img.shields.io/badge/%40donhulieo-teal?style=flat-square&logo=youtube&logoColor=ffb74d&labelColor=16171b&color=ffb74d&link=https%3A%2F%2Fwww.youtube.com%2F%40donhulieo)](https://www.youtube.com/@donhulieo)
+[![Email Badge](https://img.shields.io/badge/%40grouse-teal?style=flat-square&logo=gmail&logoColor=ffb74d&labelColor=16171b&color=ffb74d&link=mailto%3Agrouse%40grouse-labs.com)](mailto:donhulieo@grouse-labs.com)
+[![FiveM Badge](https://img.shields.io/badge/FiveM%20Store-teal?style=flat-square&logo=fivem&logoColor=ffb74d&labelColor=16171b&color=ffb74d&link=https%3A%2F%2Ftebex.grouse-labs.com)](https://tebex.grouse-labs.com)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgrouse-labs&labelColor=%2316171b&countColor=%23ffb74d&style=flat)
+
+## 🌐 Partners
+
+- [🦥 Project Sloth](https://github.com/Project-Sloth)
+- [🌮 MrNewbScripts](https://discord.gg/mrnewbscripts)
+
+## 📲 Communities
+
+- [Grouse Labs](https://discord.gg/pmywChNQ5m)
+- [Grouse Racing](https://discord.gg/N6DjwZrZ6Y)
+- [DonHulieo's Saloon](https://discord.gg/tVA58nbBuk)
+
 ## About Me
 - 👋 Hi, I’m DonHulieo
-- ✅ Offical Partner of [Project Sloth](https://github.com/Project-Sloth) & [QBox Project](https://www.qbox.re)
-- 📫 Business Enquires donhulieo@outlook.com
-- 📺 Watch me on Twitch - [Twitch.tv/DonHulieo](https://www.twitch.tv/donhulieo)
+- ✅ Founder of [Grouse Labs](https://tebex.grouse-labs.com)
+- 📫 Business Enquires <@donhulieo@grouse-labs.com>
+- 📺 Watch me on [Twitch](https://www.twitch.tv/donhulieo)
 
-## Discord
+___
+![DonHulieo GitHub stats](https://github-readme-stats.vercel.app/api?username=donhulieo&show_icons=true&include_all_commits=true&theme=great-gatsby&hide_border=true)
 
-- 💬 Join my [discord](https://discord.gg/tVA58nbBuk) for support on my scripts or if you just want to hang out and catch a stream!
-
-<a href="https://github.com/DonHulieo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=donhulieo&show_icons=true&include_all_commits=true&theme=great-gatsby&hide_border=true" alt="DonHulieo's github stats" /></a> | <a href="https://github.com/DonHulieo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donhulieo&layout=compact&theme=great-gatsby&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/DonHulieo/don-forklift">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=donhulieo&repo=don-forklift&theme=great-gatsby" />
-</a>
-<a href="https://github.com/DonHulieo/don-jewelery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=donhulieo&repo=don-jewelery&theme=great-gatsby" />
-</a> 
-<a href="https://github.com/DonHulieo/qb-weapons">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=donhulieo&repo=qb-weapons&theme=great-gatsby" />
-</a>
-<a href="https://github.com/DonHulieo/duff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=donhulieo&repo=duff&theme=great-gatsby" />
-</a>
-
-<br />
-<br />
+[![Don Forklift](https://github-readme-stats.vercel.app/api/pin/?username=donhulieo&repo=don-forklift&theme=great-gatsby)](https://github.com/DonHulieo/don-forklift)
+[![Don Jewelery](https://github-readme-stats.vercel.app/api/pin/?username=donhulieo&repo=don-jewelery&theme=great-gatsby)](https://github.com/DonHulieo/don-jewelery)
+[![Don Forklift](https://github-readme-stats.vercel.app/api/pin/?username=donhulieo&repo=don-forklift&theme=great-gatsby)](https://github.com/DonHulieo/don-forklift)
+[![Don Jewelery](https://github-readme-stats.vercel.app/api/pin/?username=donhulieo&repo=don-jewelery&theme=great-gatsby)](https://github.com/DonHulieo/don-jewelery)
+___
 
 <a href="https://discord.gg/tVA58nbBuk">
-  <img align="right" alt="Don's Saloon | Discord" width="21px" src="https://raw.githubusercontent.com/DonHulieo/DonHulieo/master/assets/discord-round.svg?sanitize=true" />
-</a>
-<a href="https://twitter.com/DHulieo">
-  <img align="right" alt="DonHulieo | Twitter" width="21px" src="https://raw.githubusercontent.com/DonHulieo/DonHulieo/master/assets/twitter.svg?sanitize=true" />
+  <img align="right" alt="DonHulieo's Saloon" width="25px" src="https://github.com/grouse-labs/.github/blob/main/profile/assets/discord.svg?sanitize=true" />
 </a>
 <a href="https://www.twitch.tv/donhulieo">
-  <img align="right" alt="DonHulieo | Twitch" width="21px" src="https://raw.githubusercontent.com/DonHulieo/DonHulieo/master/assets/twitch-tile.svg?sanitize=true" />
+  <img align="right" alt="DonHulieo | Twitch" width="25px" src="https://github.com/grouse-labs/.github/blob/main/profile/assets/twitch.svg?sanitize=true" />
+</a>
+<a href="https://tebex.grouse-labs.com">
+  <img align="right" alt="Grouse Labs Store" width="25px" src="https://github.com/grouse-labs/.github/blob/main/profile/assets/fivem.svg?sanitize=true" />
+</a>
+<a href="https://www.youtube.com/@donhulieo">
+  <img align="right" alt="DonHulieo | YouTube" width="25px" src="https://github.com/grouse-labs/.github/blob/main/profile/assets/youtube.svg?sanitize=true" />
 </a>
