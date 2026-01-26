@@ -2,7 +2,7 @@
 
 [![Twitch Badge](https://img.shields.io/badge/%40donhulieo-teal?style=flat&logo=twitch&logoColor=ffb74d&labelColor=16171b&color=ffb74d&link=https%3A%2F%2Fwww.twitch.tv%2Fdonhulieo)](https://www.twitch.tv/donhulieo)
 [![Youtube Badge](https://img.shields.io/badge/%40donhulieo-teal?style=flat-square&logo=youtube&logoColor=ffb74d&labelColor=16171b&color=ffb74d&link=https%3A%2F%2Fwww.youtube.com%2F%40donhulieo)](https://www.youtube.com/@donhulieo)
-[![Email Badge](https://img.shields.io/badge/%40grouse-teal?style=flat-square&logo=gmail&logoColor=ffb74d&labelColor=16171b&color=ffb74d&link=mailto%3Agrouse%40grouse-labs.com)](mailto:donhulieo@grouse-labs.com)
+[![Email Badge](https://img.shields.io/badge/%40donhulieo-teal?style=flat-square&logo=gmail&logoColor=ffb74d&labelColor=16171b&color=ffb74d&link=mailto%3Agrouse%40grouse-labs.com)](mailto:donhulieo@grouse-labs.com)
 [![FiveM Badge](https://img.shields.io/badge/FiveM%20Store-teal?style=flat-square&logo=fivem&logoColor=ffb74d&labelColor=16171b&color=ffb74d&link=https%3A%2F%2Ftebex.grouse-labs.com)](https://tebex.grouse-labs.com)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgrouse-labs&labelColor=%2316171b&countColor=%23ffb74d&style=flat)
 
@@ -26,8 +26,6 @@
 ___
 ![DonHulieo GitHub stats](https://github-readme-stats.vercel.app/api?username=donhulieo&show_icons=true&include_all_commits=true&theme=great-gatsby&hide_border=true)
 
-[![Don Forklift](https://github-readme-stats.vercel.app/api/pin/?username=donhulieo&repo=don-forklift&theme=great-gatsby)](https://github.com/DonHulieo/don-forklift)
-[![Don Jewelery](https://github-readme-stats.vercel.app/api/pin/?username=donhulieo&repo=don-jewelery&theme=great-gatsby)](https://github.com/DonHulieo/don-jewelery)
 [![Don Forklift](https://github-readme-stats.vercel.app/api/pin/?username=donhulieo&repo=don-forklift&theme=great-gatsby)](https://github.com/DonHulieo/don-forklift)
 [![Don Jewelery](https://github-readme-stats.vercel.app/api/pin/?username=donhulieo&repo=don-jewelery&theme=great-gatsby)](https://github.com/DonHulieo/don-jewelery)
 ___
