@@ -4,7 +4,7 @@
 [![Youtube Badge](https://img.shields.io/badge/%40donhulieo-teal?style=flat-square&logo=youtube&logoColor=ffb74d&labelColor=16171b&color=ffb74d&link=https%3A%2F%2Fwww.youtube.com%2F%40donhulieo)](https://www.youtube.com/@donhulieo)
 [![Email Badge](https://img.shields.io/badge/%40donhulieo-teal?style=flat-square&logo=gmail&logoColor=ffb74d&labelColor=16171b&color=ffb74d&link=mailto%3Agrouse%40grouse-labs.com)](mailto:donhulieo@grouse-labs.com)
 [![FiveM Badge](https://img.shields.io/badge/FiveM%20Store-teal?style=flat-square&logo=fivem&logoColor=ffb74d&labelColor=16171b&color=ffb74d&link=https%3A%2F%2Ftebex.grouse-labs.com)](https://tebex.grouse-labs.com)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDonHulieo&labelColor=%2316171b&countColor=%23ffb74d)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDonHulieo&labelColor=%2316171b&countColor=%23ffb74d&style=flat&labelStyle=none)
 
 ## 🌐 Partners
 
